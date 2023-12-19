@@ -12,6 +12,8 @@ imma senior in uni studying computer science because i love banging my head on m
 
 something something \<insert inspirational stuff\>
 
+check out my <a rel="me" href="https://hachyderm.io/@fumnanya">mastodon</a>
+
 <script>
   window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
 </script>
